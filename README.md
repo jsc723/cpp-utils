@@ -1,7 +1,7 @@
 # cpp-utils
 some convenient c++ functions / classes
 
-## including:
+## Index
 
 ### sj_math.h
 - extended gcd
